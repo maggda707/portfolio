@@ -90,3 +90,15 @@ ul > li{
     font-weight: 500;
     font-size: 20px;
 }
+
+.github{
+    text-decoration: none;
+    color: black;
+    
+}
+
+.github:hover{
+    text-decoration: none;
+    color: black;
+    text-decoration-line: underline;
+}
